@@ -90,12 +90,12 @@ Mobile-Sales-Dashboard/
 ├── Mobile_Sales_Dashboard.pbix
 ├── README.md
 ├── dataset/
-│   └── mobile_sales.csv
+│   └── mobile_sales.xlsx
 │
 └── images/
     ├── dashboard.png
-    ├── dashboard-filter1.png
-    └── dashboard-filter2.png
+    ├── Screenshot (71).png
+    └── Screenshot (72).png
 ```
 
 ---
